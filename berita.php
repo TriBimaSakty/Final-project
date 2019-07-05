@@ -1,3 +1,4 @@
+//untuk menampilkan hasil dari biodata yang telah di isi
 <?php
 echo "<head><title>Data Pengunjung</title></head>";
 $fp = fopen("data.txt","r");
