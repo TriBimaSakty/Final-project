@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+h1{
+    color: #FEFFFD;
+}
+h2{
+    color: #FEFFFD;
+}
+a{
+    color: #7FFF00;
+}
+h4{
+    color: #FEFFFD;
+}
+.atas{
+    width:100%;
+    border:5px solid #cdcdcd; 
+    background:#F06A92;
+    margin:auto;
+    font-family: ROG Fonts;
+}
+.satu{
+    width: 100%;
+}
+.dua{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background: #FF2567;
+    font-family: ROG Fonts;
+    text-align: center;
+
+}
+.tiga{
+    width: 100%;
+    height: 400px;
+    background: #FF457D;
+    font-family: ROG Fonts;
+    text-align: center;
+}
+.waktu{
+  width: 100%;
+  margin-left: 1%;
+}
+.jam {
+  font-size: 20pt;
+  background-color: #899A88;
+  border: 5px solid #FEFFFD;
+  border-radius: 10px;
+  padding: 10px;
+}
+.bawah{
+  width:100%;
+  height:30px;
+  margin-top:1px;
+  background:#C76C87;
+  text-align: center;
+}
+.kirim{
+  width: 100%;
+  background-color: #899A88;
+  height: 30px;
+  text-align: center;
+}
