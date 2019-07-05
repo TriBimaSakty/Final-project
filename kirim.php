@@ -4,7 +4,8 @@
 	<link rel="stylesheet" type="text/css" href="halaman.php">
 	<script type="text/javascript" src="ini js.js"></script>
 </head>
-<body>
+	//untuk menampilkan setelah mengisi biodata dan memilih isi buku tamu lagi atau lihat data pengunjung
+<body> 
 	<?php
 	echo "<head><title>Konfirmasi</head></title>";
 	$fp = fopen("data.txt","a+");
