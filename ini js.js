@@ -1,4 +1,4 @@
-
+//untuk menampilkan jam
 function jam() {
     var time = new Date(),
     hours = time.getHours(),
