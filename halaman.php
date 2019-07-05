@@ -12,7 +12,8 @@
 		<marquee><h1>..''Selamat Datang''..</h1></marquee>
 		<div class="satu">
 			<div class="dua">
-			<br><br>	
+			<br><br>
+				//untuk menghitung jumlah pengunjung yang datang
 			<?php
 				$filecounter="counter.txt";
 				$fl=fopen($filecounter,"r+");
